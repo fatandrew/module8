@@ -5,6 +5,6 @@ import java.util.List;
 /**
  * Created by User on 08.03.2016.
  */
-public class musicshop {
-    List<musicalinstrument> musicalinstruments;
+public class MusicShop {
+    List<MusicalInstrument> MusicalInstruments;
 }
